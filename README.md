@@ -1,6 +1,6 @@
 Certainly! Here's a brief overview of each project:
 
-                                                                  1. Number Guessing Game
+                                                1. Number Guessing Game
 
 Project Name: Number Guessing Game
 
@@ -23,7 +23,7 @@ Usage:
 
 
 
-                                                                        2. ATM Interface
+                                                   2. ATM Interface
 
 Project Name: ATM Interface
 
